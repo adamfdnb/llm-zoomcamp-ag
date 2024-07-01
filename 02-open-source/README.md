@@ -194,6 +194,9 @@ If you want to learn more about streamlit, you can
 use [this material](https://github.com/DataTalksClub/project-of-the-week/blob/main/2022-08-14-frontend.md)
 from [our repository with projects of the week](https://github.com/DataTalksClub/project-of-the-week/tree/main).
 
+# 2.1.0 Homework
+More information [here](../cohorts/2024/02-open-source/homework.md
+
 # Notes
 
 * [Workaround by Pham Nguyen Hung to use ElasticSearch container with Saturn Cloud & Google Colab instead of minsearch](https://hung.bearblog.dev/llm-zoomcamp-zrok/)
